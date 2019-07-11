@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Prog5",
+            "request": "launch",
+            "mainClass": "main.java.Prog5"
+        }
+    ]
+}

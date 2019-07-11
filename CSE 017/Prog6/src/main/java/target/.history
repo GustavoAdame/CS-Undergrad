@@ -1,0 +1,21 @@
+run
+clear
+exit
+run Prog6
+test
+run
+test
+sbt clean compile package
+exit
+run Prog6
+run
+exit
+run Prog6
+clear
+exit
+run
+exit
+run Prog6
+exit
+run Prog6
+exit

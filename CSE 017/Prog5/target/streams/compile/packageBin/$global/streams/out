@@ -1,0 +1,11 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/gustavoadamedelarosa/Desktop/Prog5/target/scala-2.10/prog5_2.10-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ThesaurusException.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/gustavoadamedelarosa/Desktop/Prog5/target/scala-2.10/classes/ThesaurusException.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Prog5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/gustavoadamedelarosa/Desktop/Prog5/target/scala-2.10/classes/Prog5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Thesaurus.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/gustavoadamedelarosa/Desktop/Prog5/target/scala-2.10/classes/Thesaurus.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PronouncingDictionary.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/gustavoadamedelarosa/Desktop/Prog5/target/scala-2.10/classes/PronouncingDictionary.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

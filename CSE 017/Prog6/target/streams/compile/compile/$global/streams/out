@@ -1,0 +1,12 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/Prog6/src/main/java/Bashtable.java:12:1: incompatible types: Bashtable<Link> cannot be converted to Bashtable<T>[0m
+[0m[[0m[31merror[0m] [0m[0m        link = new Bashtable<Link>();[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/Prog6/src/main/java/Bashtable.java:15:1: incompatible types: char cannot be converted to boolean[0m
+[0m[[0m[31merror[0m] [0m[0m            while (key.charAt(i)) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/Prog6/src/main/java/Bashtable.java:17:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   method add(char)[0m
+[0m[[0m[31merror[0m] [0m[0m  location: variable link of type Bashtable<T>[0m
+[0m[[0m[31merror[0m] [0m[0m                link.add(letter);[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/Prog6/src/main/java/Bashtable.java:20:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   method next(T)[0m
+[0m[[0m[31merror[0m] [0m[0m  location: variable head of type Node<T>[0m
+[0m[[0m[31merror[0m] [0m[0m        head.next(value);[0m

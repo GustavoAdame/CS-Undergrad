@@ -1,0 +1,2 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/Prog5/src/main/java/Prog5.java:24:1: incompatible types: java.lang.String cannot be converted to java.lang.Integer[0m
+[0m[[0m[31merror[0m] [0m[0m                degree = (Integer) args[2];[0m

@@ -1,0 +1,100 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog7/src/main/java/InFixToBinaryTreeConverter.java:97:1: orphaned case[0m
+[0m[[0m[31merror[0m] [0m[0m            case ")":[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog7/src/main/java/InFixToBinaryTreeConverter.java:103:1: <identifier> expected[0m
+[0m[[0m[31merror[0m] [0m[0m        }root=btstack.remove(btstack.size()-1);[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog7/src/main/java/InFixToBinaryTreeConverter.java:107:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m    public int precedenceLevel(String op) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog7/src/main/java/InFixToBinaryTreeConverter.java:112:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m        case "*":[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog7/src/main/java/InFixToBinaryTreeConverter.java:115:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m        default:[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog7/src/main/java/InFixToBinaryTreeConverter.java:117:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m        }[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog7/src/main/java/InFixToBinaryTreeConverter.java:120:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m    public void printInorder(Node node) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog7/src/main/java/InFixToBinaryTreeConverter.java:124:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m        printInorder(node.left);[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog7/src/main/java/InFixToBinaryTreeConverter.java:125:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m        System.out.print(node.getVal() + " ");[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog7/src/main/java/InFixToBinaryTreeConverter.java:126:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m        printInorder(node.right);[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog7/src/main/java/InFixToBinaryTreeConverter.java:127:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m    }[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog7/src/main/java/InFixToBinaryTreeConverter.java:129:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m    public void printPreorder(Node node) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog7/src/main/java/InFixToBinaryTreeConverter.java:133:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m        System.out.print(node.getVal() + " ");[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog7/src/main/java/InFixToBinaryTreeConverter.java:134:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m        printPreorder(node.left);[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog7/src/main/java/InFixToBinaryTreeConverter.java:135:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m        printPreorder(node.right);[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog7/src/main/java/InFixToBinaryTreeConverter.java:136:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m    }[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog7/src/main/java/InFixToBinaryTreeConverter.java:138:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m    public void printPostorder(Node node) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog7/src/main/java/InFixToBinaryTreeConverter.java:141:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m        printPostorder(node.left);[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog7/src/main/java/InFixToBinaryTreeConverter.java:142:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m        printPostorder(node.right);[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog7/src/main/java/InFixToBinaryTreeConverter.java:143:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m        System.out.print(node.getVal() + " ");[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog7/src/main/java/InFixToBinaryTreeConverter.java:144:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m        store.add(node.getVal());[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog7/src/main/java/InFixToBinaryTreeConverter.java:145:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m    }[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog7/src/main/java/InFixToBinaryTreeConverter.java:147:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m    public void evaluatePostFix() {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog7/src/main/java/InFixToBinaryTreeConverter.java:149:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m        String val;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog7/src/main/java/InFixToBinaryTreeConverter.java:150:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m        while (!store.isEmpty()) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog7/src/main/java/InFixToBinaryTreeConverter.java:152:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m            switch (val) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog7/src/main/java/InFixToBinaryTreeConverter.java:164:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m                break;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog7/src/main/java/InFixToBinaryTreeConverter.java:165:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m            case "+":[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog7/src/main/java/InFixToBinaryTreeConverter.java:167:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m                int sumval2 = Integer.parseInt(result.remove(result.size() - 1));[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog7/src/main/java/InFixToBinaryTreeConverter.java:168:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m                int sum = sumval2 + sumval1;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog7/src/main/java/InFixToBinaryTreeConverter.java:169:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m                result.add(String.valueOf(sum));[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog7/src/main/java/InFixToBinaryTreeConverter.java:170:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m                break;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog7/src/main/java/InFixToBinaryTreeConverter.java:171:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m            case "-":[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog7/src/main/java/InFixToBinaryTreeConverter.java:173:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m                int subval2 = Integer.parseInt(result.remove(result.size() - 1));[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog7/src/main/java/InFixToBinaryTreeConverter.java:174:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m                int sub = subval2 - subval1;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog7/src/main/java/InFixToBinaryTreeConverter.java:175:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m                result.add(String.valueOf(sub));[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog7/src/main/java/InFixToBinaryTreeConverter.java:176:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m                break;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog7/src/main/java/InFixToBinaryTreeConverter.java:177:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m            case "*":[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog7/src/main/java/InFixToBinaryTreeConverter.java:179:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m                int mulval2 = Integer.parseInt(result.remove(result.size() - 1));[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog7/src/main/java/InFixToBinaryTreeConverter.java:180:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m                int mul = mulval2 * mulval1;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog7/src/main/java/InFixToBinaryTreeConverter.java:181:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m                result.add(String.valueOf(mul));[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog7/src/main/java/InFixToBinaryTreeConverter.java:182:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m                break;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog7/src/main/java/InFixToBinaryTreeConverter.java:183:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m            case "/":[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog7/src/main/java/InFixToBinaryTreeConverter.java:185:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m                int dival2 = Integer.parseInt(result.remove(result.size() - 1));[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog7/src/main/java/InFixToBinaryTreeConverter.java:186:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m                int di = dival2 / dival1;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog7/src/main/java/InFixToBinaryTreeConverter.java:187:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m                result.add(String.valueOf(di));[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog7/src/main/java/InFixToBinaryTreeConverter.java:188:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m                break;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog7/src/main/java/InFixToBinaryTreeConverter.java:189:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m            default:[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog7/src/main/java/InFixToBinaryTreeConverter.java:191:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m            }[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog7/src/main/java/InFixToBinaryTreeConverter.java:194:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m    }[0m

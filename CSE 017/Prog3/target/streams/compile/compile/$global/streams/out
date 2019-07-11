@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog3/src/main/java/Prog3.java:47:1: ';' expected[0m
+[0m[[0m[31merror[0m] [0m[0m        System.out.println()l[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog3/src/main/java/Prog3.java:48:1: ';' expected[0m
+[0m[[0m[31merror[0m] [0m[0m        System.out.printf("Grand Total of all employees total pay is: %.2f \n",totalSum);[0m

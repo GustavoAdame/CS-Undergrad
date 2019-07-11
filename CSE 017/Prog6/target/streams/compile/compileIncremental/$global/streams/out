@@ -1,0 +1,66 @@
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial source changes: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	removed:Set(/Users/gustavoadamedelarosa/Downloads/Prog6/src/main/java/Bashtable.java, /Users/gustavoadamedelarosa/Downloads/Prog6/src/main/java/Link.java, /Users/gustavoadamedelarosa/Downloads/Prog6/src/main/java/Node.java, /Users/gustavoadamedelarosa/Downloads/Prog6/src/main/java/Prog6.java)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	added: Set(/Users/gustavoadamedelarosa/Desktop/Prog6/src/main/java/Node.java, /Users/gustavoadamedelarosa/Desktop/Prog6/src/main/java/Link.java, /Users/gustavoadamedelarosa/Desktop/Prog6/src/main/java/Bashtable.java, /Users/gustavoadamedelarosa/Desktop/Prog6/src/main/java/Prog6.java)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set(/Users/gustavoadamedelarosa/Downloads/Prog6/target/scala-2.10/classes/Bashtable.class, /Users/gustavoadamedelarosa/Downloads/Prog6/target/scala-2.10/classes/Link.class, /Users/gustavoadamedelarosa/Downloads/Prog6/target/scala-2.10/classes/Node.class)[0m
+[0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set(Bashtable, Link, Node)[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	product: Set(/Users/gustavoadamedelarosa/Downloads/Prog6/src/main/java/Bashtable.java, /Users/gustavoadamedelarosa/Downloads/Prog6/src/main/java/Link.java, /Users/gustavoadamedelarosa/Downloads/Prog6/src/main/java/Node.java)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated classes: Set(Bashtable, Link, Node)[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated sources:Set(/Users/gustavoadamedelarosa/Desktop/Prog6/src/main/java/Node.java, /Users/gustavoadamedelarosa/Downloads/Prog6/src/main/java/Link.java, /Users/gustavoadamedelarosa/Desktop/Prog6/src/main/java/Link.java, /Users/gustavoadamedelarosa/Desktop/Prog6/src/main/java/Prog6.java, /Users/gustavoadamedelarosa/Downloads/Prog6/src/main/java/Node.java, /Users/gustavoadamedelarosa/Desktop/Prog6/src/main/java/Bashtable.java, /Users/gustavoadamedelarosa/Downloads/Prog6/src/main/java/Bashtable.java)[0m
+[0m[[0m[0mdebug[0m] [0m[0mRecompiling all 4 sources: invalidated sources (7) exceeded 50.0% of all sources[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 4 Java sources to /Users/gustavoadamedelarosa/Desktop/Prog6/target/scala-2.10/classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mAttempting to call com.sun.tools.javac.api.JavacTool@4b68da54 directly...[0m
+[0m[[0m[0mdebug[0m] [0m[0mJava compilation took 1.545294672 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mJava analysis took 0.311106056 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mJava compilation + analysis took 1.871781813 s[0m
+[0m[[0m[0minfo[0m] [0m[0mDone compiling.[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from Bashtable...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Set(Bashtable)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(Bashtable)[0m
+[0m[[0m[0mdebug[0m] [0m[0mName hashing optimization doesn't apply to non-Scala dependency: Prog6[0m
+[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(Bashtable,ModifiedNames(changes = UsedName(getClass,[Default]), UsedName(Bashtable,[Default]), UsedName(toString,[Default]), UsedName(Bashtable;init;,[Default]), UsedName(notify,[Default]), UsedName(wait,[Default]), UsedName(notifyAll,[Default]), UsedName(hashCode,[Default]), UsedName(equals,[Default]))) invalidates 2 classes due to The Bashtable has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(getClass,[Default]), UsedName(Bashtable,[Default]), UsedName(toString,[Default]), UsedName(Bashtable;init;,[Default]), UsedName(notify,[Default]), UsedName(wait,[Default]), UsedName(notifyAll,[Default]), UsedName(hashCode,[Default]), UsedName(equals,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by transitive inheritance: Set(Bashtable)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by member reference: Set(Prog6)[0m
+[0m[[0m[0mdebug[0m] [0m[0m        [0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from Link...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Set(Link)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(Link)[0m
+[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(Link,ModifiedNames(changes = UsedName(Link;init;,[Default]), UsedName(Link,[Default]), UsedName(getClass,[Default]), UsedName(toString,[Default]), UsedName(notify,[Default]), UsedName(wait,[Default]), UsedName(notifyAll,[Default]), UsedName(hashCode,[Default]), UsedName(equals,[Default]))) invalidates 1 classes due to The Link has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(Link;init;,[Default]), UsedName(Link,[Default]), UsedName(getClass,[Default]), UsedName(toString,[Default]), UsedName(notify,[Default]), UsedName(wait,[Default]), UsedName(notifyAll,[Default]), UsedName(hashCode,[Default]), UsedName(equals,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by transitive inheritance: Set(Link)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m        [0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from Node...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Set(Node)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(Node)[0m
+[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(Node,ModifiedNames(changes = UsedName(Node;init;,[Default]), UsedName(getClass,[Default]), UsedName(toString,[Default]), UsedName(notify,[Default]), UsedName(wait,[Default]), UsedName(Node,[Default]), UsedName(notifyAll,[Default]), UsedName(hashCode,[Default]), UsedName(equals,[Default]))) invalidates 1 classes due to The Node has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(Node;init;,[Default]), UsedName(getClass,[Default]), UsedName(toString,[Default]), UsedName(notify,[Default]), UsedName(wait,[Default]), UsedName(Node,[Default]), UsedName(notifyAll,[Default]), UsedName(hashCode,[Default]), UsedName(equals,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by transitive inheritance: Set(Node)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m        [0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from Prog6...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Set(Prog6)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(Prog6)[0m
+[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(Prog6,ModifiedNames(changes = UsedName(main,[Default]), UsedName(Prog6,[Default]), UsedName(getClass,[Default]), UsedName(toString,[Default]), UsedName(notify,[Default]), UsedName(wait,[Default]), UsedName(Prog6;init;,[Default]), UsedName(notifyAll,[Default]), UsedName(hashCode,[Default]), UsedName(equals,[Default]))) invalidates 1 classes due to The Prog6 has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(main,[Default]), UsedName(Prog6,[Default]), UsedName(getClass,[Default]), UsedName(toString,[Default]), UsedName(notify,[Default]), UsedName(wait,[Default]), UsedName(Prog6;init;,[Default]), UsedName(notifyAll,[Default]), UsedName(hashCode,[Default]), UsedName(equals,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by transitive inheritance: Set(Prog6)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m        [0m
+[0m[[0m[0mdebug[0m] [0m[0mNew invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll newly invalidated classes after taking into account (previously) recompiled classes:Set()[0m

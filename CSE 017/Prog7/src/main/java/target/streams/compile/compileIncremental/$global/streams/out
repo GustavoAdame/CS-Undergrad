@@ -1,0 +1,23 @@
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial source changes: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	removed:Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	added: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set(/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog7/src/main/java/InFixToBinaryTreeConverter.java, /Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog7/src/main/java/Prog7.java)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set(InFixToBinaryTreeConverter, Prog7)[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	product: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated classes: Set(InFixToBinaryTreeConverter, Prog7)[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated sources:Set(/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog7/src/main/java/InFixToBinaryTreeConverter.java, /Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog7/src/main/java/Prog7.java)[0m
+[0m[[0m[0mdebug[0m] [0m[0mRecompiling all 3 sources: invalidated sources (2) exceeded 50.0% of all sources[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 3 Java sources to /Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog7/src/main/java/target/scala-2.12/classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mAttempting to call com.sun.tools.javac.api.JavacTool@488d0eb directly...[0m
+[0m[[0m[0mdebug[0m] [0m[0mJava compilation took 2.967783157 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mJava analysis took 0.266083177 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mJava compilation + analysis took 3.28080063 s[0m
+[0m[[0m[0minfo[0m] [0m[0mDone compiling.[0m

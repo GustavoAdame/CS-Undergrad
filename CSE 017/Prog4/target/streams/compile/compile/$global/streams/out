@@ -1,0 +1,99 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog4/src/main/java/Player.java:5:1: incompatible types: prog4.Hand cannot be converted to prog4.Player[0m
+[0m[[0m[31merror[0m] [0m[0m    protected Player hand = new Hand(); [0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog4/src/main/java/Prog4.java:14:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Dealer[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class prog4.Prog4[0m
+[0m[[0m[31merror[0m] [0m[0m        Dealer dealer = new Dealer("Danny the Dealer");[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog4/src/main/java/Prog4.java:14:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Dealer[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class prog4.Prog4[0m
+[0m[[0m[31merror[0m] [0m[0m        Dealer dealer = new Dealer("Danny the Dealer");[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog4/src/main/java/Prog4.java:15:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class List[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class prog4.Prog4[0m
+[0m[[0m[31merror[0m] [0m[0m        List<Player> players = new ArrayList<>();[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog4/src/main/java/Prog4.java:15:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class ArrayList[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class prog4.Prog4[0m
+[0m[[0m[31merror[0m] [0m[0m        List<Player> players = new ArrayList<>();[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog4/src/main/java/Prog4.java:16:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class BufferedReader[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class prog4.Prog4[0m
+[0m[[0m[31merror[0m] [0m[0m        BufferedReader in = new BufferedReader(new InputStreamReader(System.in));[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog4/src/main/java/Prog4.java:16:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class BufferedReader[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class prog4.Prog4[0m
+[0m[[0m[31merror[0m] [0m[0m        BufferedReader in = new BufferedReader(new InputStreamReader(System.in));[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog4/src/main/java/Prog4.java:16:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class InputStreamReader[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class prog4.Prog4[0m
+[0m[[0m[31merror[0m] [0m[0m        BufferedReader in = new BufferedReader(new InputStreamReader(System.in));[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog4/src/main/java/Prog4.java:21:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class IOException[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class prog4.Prog4[0m
+[0m[[0m[31merror[0m] [0m[0m        } catch (IOException ex) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog4/src/main/java/Prog4.java:26:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class AlwaysStayPlayer[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class prog4.Prog4[0m
+[0m[[0m[31merror[0m] [0m[0m        players.add(new AlwaysStayPlayer("Always Stay Alan"));[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog4/src/main/java/Prog4.java:27:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class AlwaysStayPlayer[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class prog4.Prog4[0m
+[0m[[0m[31merror[0m] [0m[0m        players.add(new AlwaysStayPlayer("Always Stay Alice"));[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog4/src/main/java/Prog4.java:28:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class HitTil21Player[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class prog4.Prog4[0m
+[0m[[0m[31merror[0m] [0m[0m        players.add(new HitTil21Player("Hit Til 21 Harry"));[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog4/src/main/java/Prog4.java:29:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class HitTil21Player[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class prog4.Prog4[0m
+[0m[[0m[31merror[0m] [0m[0m        players.add(new HitTil21Player("Hit Til 21 Helen"));[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog4/src/main/java/Prog4.java:37:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   method handValue()[0m
+[0m[[0m[31merror[0m] [0m[0m  location: variable player of type prog4.Player[0m
+[0m[[0m[31merror[0m] [0m[0m                if (player.handValue() <= 21) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog4/src/main/java/Prog4.java:38:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   method getName()[0m
+[0m[[0m[31merror[0m] [0m[0m  location: variable player of type prog4.Player[0m
+[0m[[0m[31merror[0m] [0m[0m                    System.out.printf("%s Wins!\n", player.getName());[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog4/src/main/java/Prog4.java:43:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   method handValue()[0m
+[0m[[0m[31merror[0m] [0m[0m  location: variable player of type prog4.Player[0m
+[0m[[0m[31merror[0m] [0m[0m                if (player.handValue() <= 21 && player.handValue() > dealer.handValue()) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog4/src/main/java/Prog4.java:43:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   method handValue()[0m
+[0m[[0m[31merror[0m] [0m[0m  location: variable player of type prog4.Player[0m
+[0m[[0m[31merror[0m] [0m[0m                if (player.handValue() <= 21 && player.handValue() > dealer.handValue()) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog4/src/main/java/Prog4.java:44:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   method getName()[0m
+[0m[[0m[31merror[0m] [0m[0m  location: variable player of type prog4.Player[0m
+[0m[[0m[31merror[0m] [0m[0m                    System.out.printf("%s Wins!\n", player.getName());[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog4/src/main/java/Prog4.java:51:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   method nextAction()[0m
+[0m[[0m[31merror[0m] [0m[0m  location: variable player of type prog4.Player[0m
+[0m[[0m[31merror[0m] [0m[0m        while (player.nextAction() == Player.HIT) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog4/src/main/java/Prog4.java:52:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   method getName()[0m
+[0m[[0m[31merror[0m] [0m[0m  location: variable player of type prog4.Player[0m
+[0m[[0m[31merror[0m] [0m[0m            System.out.printf("%s Hits\n", player.getName());[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog4/src/main/java/Prog4.java:55:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   method acceptCard(prog4.Card)[0m
+[0m[[0m[31merror[0m] [0m[0m  location: variable player of type prog4.Player[0m
+[0m[[0m[31merror[0m] [0m[0m            player.acceptCard(card);[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog4/src/main/java/Prog4.java:57:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   method getName()[0m
+[0m[[0m[31merror[0m] [0m[0m  location: variable player of type prog4.Player[0m
+[0m[[0m[31merror[0m] [0m[0m        System.out.printf("%s Stays\n", player.getName());[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog4/src/main/java/Prog4.java:58:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   method handValue()[0m
+[0m[[0m[31merror[0m] [0m[0m  location: variable player of type prog4.Player[0m
+[0m[[0m[31merror[0m] [0m[0m        if (player.handValue() > 21) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog4/src/main/java/Prog4.java:59:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   method getName()[0m
+[0m[[0m[31merror[0m] [0m[0m  location: variable player of type prog4.Player[0m
+[0m[[0m[31merror[0m] [0m[0m            System.out.printf("%s is busted!\n", player.getName());[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gustavoadamedelarosa/Desktop/CS Code/CSE 017/Prog4/src/main/java/RealPlayer.java:10:1: constructor Player in class prog4.Player cannot be applied to given types;[0m
+[0m[[0m[31merror[0m] [0m[0m  required: no arguments[0m
+[0m[[0m[31merror[0m] [0m[0m  found: java.lang.String[0m
+[0m[[0m[31merror[0m] [0m[0m  reason: actual and formal argument lists differ in length[0m
+[0m[[0m[31merror[0m] [0m[0m        super(name);[0m

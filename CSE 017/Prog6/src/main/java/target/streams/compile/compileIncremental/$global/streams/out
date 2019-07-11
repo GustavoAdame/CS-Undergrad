@@ -1,0 +1,38 @@
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial source changes: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	removed:Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	added: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set(/Users/gustavoadamedelarosa/Desktop/Prog6/src/main/java/Prog6.java, /Users/gustavoadamedelarosa/Desktop/Prog6/src/main/java/Bashtable.java)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set(Prog6, Bashtable)[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	product: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated classes: Set(Prog6, Bashtable)[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated sources:Set(/Users/gustavoadamedelarosa/Desktop/Prog6/src/main/java/Prog6.java, /Users/gustavoadamedelarosa/Desktop/Prog6/src/main/java/Bashtable.java)[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 2 Java sources to /Users/gustavoadamedelarosa/Desktop/Prog6/src/main/java/target/scala-2.12/classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mAttempting to call com.sun.tools.javac.api.JavacTool@1d5ad0e2 directly...[0m
+[0m[[0m[0mdebug[0m] [0m[0mJava compilation took 0.155449553 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mJava analysis took 0.043603072 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mJava compilation + analysis took 0.200525215 s[0m
+[0m[[0m[0minfo[0m] [0m[0mDone compiling.[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from Bashtable...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Set(Bashtable)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(Bashtable)[0m
+[0m[[0m[0mdebug[0m] [0m[0mName hashing optimization doesn't apply to non-Scala dependency: Prog6[0m
+[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(Bashtable,ModifiedNames(changes = UsedName(remove,[Default]))) invalidates 2 classes due to The Bashtable has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(remove,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by transitive inheritance: Set(Bashtable)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by member reference: Set(Prog6)[0m
+[0m[[0m[0mdebug[0m] [0m[0m        [0m
+[0m[[0m[0mdebug[0m] [0m[0mNew invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set(Prog6)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Set(Prog6)[0m
+[0m[[0m[0mdebug[0m] [0m[0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll newly invalidated classes after taking into account (previously) recompiled classes:Set()[0m
